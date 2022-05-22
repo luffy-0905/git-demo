@@ -1,5 +1,5 @@
-hello git! nihao luffy
-hello git! nihao wangQiao
+hello git! luffy
+hello git! wangQiao
 hello git!
 hello git!
 hello git!
